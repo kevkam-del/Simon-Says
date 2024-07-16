@@ -421,3 +421,13 @@ Functionality:
 - The game ends/resets when a player makes a mistake or successfully completes all the rounds of the level.
 - The game is deployed to Github.
 - The game presents some aspects of originality and creativity as specified in US-06.
+
+General Code Organization:
+- Minimal code duplication
+- Comments are used to describe the functions.
+
+# Tips
+
+- Start by completing the required HTML elements and then proceed to work on the javascript functions. CSS changes can be made last. Follow the order of the user stories.
+- If you get stuck, take a careful look at the resources that we provide. If you are still stuck, ask a friend or a mentor for help.
+- Read the user stories and tests carefully.
